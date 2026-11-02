@@ -1,2 +1,2 @@
 # EE2010-CW
-group10_project_EE2010
+group7_project_EE2010
